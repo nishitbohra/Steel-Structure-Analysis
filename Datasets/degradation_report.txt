@@ -1,0 +1,16 @@
+Mild Steel Degradation Report 
+
+1. Most Degraded Image: IMG20240615103722.jpg (5Y)
+2. Average Degradation Per Stage:
+Stage  Degradation_Percentage
+  1yB                0.082089
+   5Y                0.297327
+  5Yb                0.241688
+
+Biggest Degradation Jump: IMG20240615103719.jpg
+
+Conclusion:
+- Degradation increases over time, with IMG20240615103722.jpg showing the highest degradation at 0.40%.
+- The biggest jump in degradation occurred for IMG20240615103719.jpg, indicating a critical wear phase.
+
+Saving Report...
