@@ -1,0 +1,8 @@
+opencv-python-headless
+streamlit
+torch
+opencv-contrib-python
+matplotlib
+numpy
+scikit-image
+opencv-python
